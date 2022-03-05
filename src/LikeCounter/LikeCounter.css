@@ -1,0 +1,16 @@
+.like-counter,
+.like-counter * {
+	text-align: center;
+	font-size: 1.5rem;
+}
+
+button {
+	background-color: rgb(65, 65, 65);
+	border: none;
+	border-radius: 10px;
+}
+
+p {
+	display: inline;
+	padding: 10px;
+}
