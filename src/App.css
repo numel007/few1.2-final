@@ -1,6 +1,8 @@
 .App {
-	color: white;
-	background-color: black;
+	color: blue;
+	background-color: red;
+	font-family: cursive;
+	background-image: url('./main-bg.gif');
 }
 
 .App-logo {

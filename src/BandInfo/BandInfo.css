@@ -1,10 +1,17 @@
 .BandInfo {
 	padding: 10px;
 	border-style: solid;
-	border-color: white;
-	border-radius: 1px;
+	border-color: rgb(0, 255, 0);
+	border-width: 30px;
+	border-radius: 400px;
+	background-image: url('../bg.gif');
 }
 
 .band-name {
 	text-align: center;
+}
+
+li {
+	color: yellow;
+	border: double;
 }

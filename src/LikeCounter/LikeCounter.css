@@ -5,7 +5,7 @@
 }
 
 button {
-	background-color: rgb(65, 65, 65);
+	background-color: rgb(0, 225, 255);
 	border: none;
 	border-radius: 10px;
 }
@@ -13,4 +13,7 @@ button {
 p {
 	display: inline;
 	padding: 10px;
+	font-size: larger;
+	font-weight: bolder;
+	color: rgb(255, 174, 0);
 }
